@@ -12,7 +12,7 @@ const CardCategories = (props: props) => {
     const { title, Cards, variant } = props;
     return (
         <div className={variant == "Primary" ? styles.CardCategories__primary : styles.CardCategories__secondary}>
-            <Tag title={title} variant={variant}></Tag>
+            <Tag title={title} variant={variant} seal={false}></Tag>
             {Cards.map((item, index) => {
                 return <Card
                     key={index}

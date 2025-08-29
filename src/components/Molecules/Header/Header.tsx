@@ -10,7 +10,7 @@ const Header = () => {
     const Burger1 = React.createRef<HTMLDivElement>();
     const Burger2 = React.createRef<HTMLDivElement>();
 
-    function OpenNav(e: any) {
+    function OpenNav() {
         Burger1.current?.classList.toggle(styles.Open);
         Burger2.current?.classList.toggle(styles.Open);
         Menu.current?.classList.toggle(styles.Open);
