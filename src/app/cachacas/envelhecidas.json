@@ -1,0 +1,164 @@
+[
+    {
+        "title": "Bahia",
+        "variant": "Secondary",
+        "Cards": [
+            {
+                "title": "Matriarca Jaqueira",
+                "price": "18",
+                "seal": true,
+                "subtitle": "caravelas | 42% | 2 anos em jaqueira",
+                "text": "frutas amarelas, com final seco, seco, seco",
+                "variant": "Secondary"
+            },
+            {
+                "title": "Matriarca 4 Madeiras Brasileiras",
+                "price": "35",
+                "seal": true,
+                "subtitle": "caravelas | 42% | blend de amburana, bálsamo, jaqueira e louro-canela (2 anos cada)",
+                "text": "louro, especiarias e erva-doce",
+                "variant": "Secondary"
+            }
+        ]
+    },
+    {
+        "title": "Ceará",
+        "variant": "Secondary",
+        "Cards": [
+            {
+                "title": "Ypioca Ouro",
+                "price": "9",
+                "seal": false,
+                "subtitle": "maranguape | 38% | 1 ano em bálsamo",
+                "text": "especiarias, madeira verde e ervas",
+                "variant": "Secondary"
+            }
+        ]
+    },
+    {
+        "title": "Espírito Santo",
+        "variant": "Secondary",
+        "Cards": [
+            {
+                "title": "Fio de Ouro Retrô Itaúba",
+                "price": "14",
+                "seal": false,
+                "subtitle": "são roque do canaã | 45% | 6 meses em itaúba",
+                "text": "madeira e um sutil pêssego",
+                "variant": "Secondary"
+            },
+            {
+                "title": "Princesa Isabel Amburana",
+                "price": "23",
+                "seal": true,
+                "subtitle": "linhares | 40% | 1 ano em amburana e finalizada em carvalho-americano",
+                "text": "baunilha, coco, cravo e picância na medida",
+                "variant": "Secondary"
+            },
+            {
+                "title": "Princesa Isabel Carvalho",
+                "price": "28",
+                "seal": true,
+                "subtitle": "linhares | 40% | 3 anos em carvalho francês, carvalho americano e amburana",
+                "text": "bastante madeira, especiarias e leve baunilha",
+                "variant": "Secondary"
+            }
+        ]
+    },
+    {
+        "title": "Minas Gerais",
+        "variant": "Secondary",
+        "Cards": [
+            {
+                "title": "Bem Me Quer Amburana",
+                "price": "14",
+                "seal": true,
+                "subtitle": "pitangui | 40% | 18 meses em amburana",
+                "text": "macia e com muita amburana",
+                "variant": "Secondary"
+            },
+            {
+                "title": "Claudionor",
+                "price": "12",
+                "seal": true,
+                "subtitle": "januária | 48% | 1 ano em amburana",
+                "text": "potente, com cana madura e especiarias",
+                "variant": "Secondary"
+            },
+            {
+                "title": "Colombina Tradicional",
+                "price": "14",
+                "seal": true,
+                "subtitle": "alvinópolis | 41,5% | 3 anos em jatobá",
+                "text": "melão, umami e cana fresca",
+                "variant": "Secondary"
+            },
+            {
+                "title": "João Mendes Ouro",
+                "price": "12",
+                "seal": false,
+                "subtitle": "perdões | 38% | 2 anos em carvalho",
+                "text": "caramelo, madeira e alguma baunilha",
+                "variant": "Secondary"
+            },
+            {
+                "title": "Puri Jequitibá",
+                "price": "13",
+                "seal": false,
+                "subtitle": "fervedouro | 40% | 18 meses em jequitibá-branco",
+                "text": "uma garapa refrescante",
+                "variant": "Secondary"
+            },
+            {
+                "title": "Retiro Velho Cerejeira",
+                "price": "13",
+                "seal": false,
+                "subtitle": "araguari | 40% | 2 anos em cerejeira",
+                "text": "frutas secas, baunilha e acidez equilibrada",
+                "variant": "Secondary"
+            }
+        ]
+    },
+    {
+        "title": "Pará",
+        "variant": "Secondary",
+        "Cards": [
+            {
+                "title": "Indiazinha Carvalho",
+                "price": "13",
+                "seal": false,
+                "subtitle": "abaetetuba | 40% | 1 ano em carvalho europeu",
+                "text": "uva fresca e caramelo",
+                "variant": "Secondary"
+            }
+        ]
+    },
+    {
+        "title": "Paraíba",
+        "variant": "Secondary",
+        "Cards": [
+            {
+                "title": "Baraúna Carvalho Reserva",
+                "price": "30",
+                "seal": true,
+                "subtitle": "alhandra | 40% | 1 ano em carvalho americano e carvalho francês",
+                "text": "amendoada, com notas de coco e baunilha",
+                "variant": "Secondary"
+            }
+        ]
+    },
+    {
+        "title": "Pernambuco",
+        "variant": "Secondary",
+        "Cards": [
+            {
+                "title": "Baraúna Carvalho Reserva",
+                "price": "30",
+                "seal": true,
+                "subtitle": "alhandra | 40% | 1 ano em carvalho americano e carvalho francês",
+                "text": "amendoada, com notas de coco e baunilha",
+                "variant": "Secondary"
+            }
+        ]
+    }
+]

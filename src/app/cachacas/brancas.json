@@ -1,0 +1,240 @@
+[{
+                "title": "Bahia",
+                "variant": "Primary",
+                "Cards": [{
+                    "title": "Matriarca Cristal",
+                    "price": "12",
+                    "seal": true,
+                    "subtitle": "caravelas | 42% | 1 ano em inox",
+                    "text": "grama molhada e cana fresca",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Serra das Almas",
+                    "price": "13",
+                    "seal": false,
+                    "subtitle": "rio de contas | 40% | 2 ano em inox",
+                    "text": "ervas, especiarias e amêndoas",
+                    "variant": "Primary"
+                }]
+            },
+            {
+                "title": "Ceará",
+                "variant": "Primary",
+                "Cards": [{
+                    "title": "Ypioca Prata",
+                    "price": "8",
+                    "seal": false,
+                    "subtitle": "maranguape | 38% | 1 ano em freijó",
+                    "text": "branquinha sinônimo de boteco",
+                    "variant": "Primary"
+                }]
+            },
+            {
+                "title": "Minas Gerais",
+                "variant": "Primary",
+                "Cards": [{
+                    "title": "Amélia",
+                    "price": "9",
+                    "seal": false,
+                    "subtitle": "paraisópolis | 40% | amendoim",
+                    "text": "branquinha centenária",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Bem me quer Prata",
+                    "price": "14",
+                    "seal": true,
+                    "subtitle": "pitangui | 39% | 6 meses em inox",
+                    "text": "maçã-verde, abacaxi e cana-de-açúcar",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Colombina Cristal",
+                    "price": "17",
+                    "seal": true,
+                    "subtitle": "alvinópolis | 43% | 6 meses em inox",
+                    "text": "frutada e milhuda",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Meia Lua Prata",
+                    "price": "11",
+                    "seal": true,
+                    "subtitle": "salinas | 40% | 18 meses em jequitibá-branco",
+                    "text": "caldo de cana vegetal e fresco",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Mineiriana Clássica",
+                    "price": "15",
+                    "seal": true,
+                    "subtitle": "itabira | 40% | 6 meses em inox",
+                    "text": "um jardim floral de inverno engarrafado",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Santo Grau Coronel Xavier Chaves",
+                    "price": "15",
+                    "seal": true,
+                    "subtitle": "coronel xavier chaves | 40% | 6 meses em inox",
+                    "text": "terra e cana-de-açúcar",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Século XVIII",
+                    "price": "15",
+                    "seal": true,
+                    "subtitle": "coronel xavier chaves | 48% | 1 ano em inox",
+                    "text": "pura que só, cachaça cachaça!",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Tiê Prata",
+                    "price": "13",
+                    "seal": true,
+                    "subtitle": "aiuruoca | 42% | inox",
+                    "text": "fresquíssima, com cana intensa",
+                    "variant": "Primary"
+                }]
+            },
+            {
+                "title": "Paraíba",
+                "variant": "Primary",
+                "Cards": [{
+                    "title": "Gregório Prata",
+                    "price": "19",
+                    "seal": true,
+                    "subtitle": "alagoa grande | 45% | 1 ano em freijó",
+                    "text": "muito herbal e fresca",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Rainha",
+                    "price": "12",
+                    "seal": false,
+                    "subtitle": "bananeiras | 50% | 6 meses em freijó",
+                    "text": "aguardente de cana, clássica e redonda",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Nobre Cristal",
+                    "price": "23",
+                    "seal": true,
+                    "subtitle": "cruz do espírito santo | 42% | 8 meses em inox",
+                    "text": "cana fresca e um toque de anis",
+                    "variant": "Primary"
+                }]
+            },
+            {
+                "title": "Pernambuco",
+                "variant": "Primary",
+                "Cards": [{
+                    "title": "Sanhaçu Origem",
+                    "price": "25",
+                    "seal": true,
+                    "subtitle": "chã grande | 47% | 6 meses em inox",
+                    "text": "cana, grama e terra, tudo fresco",
+                    "variant": "Primary"
+                }]
+            },
+            {
+                "title": "Rio de Janeiro",
+                "variant": "Primary",
+                "Cards": [{
+                    "title": "Cobra Coral",
+                    "price": "18",
+                    "seal": false,
+                    "subtitle": "engenheiro paulo de frontin | 39% | inox",
+                    "text": "blend fresco, levinho, levinho",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Da Quinta Prata",
+                    "price": "25",
+                    "seal": false,
+                    "subtitle": "carmo | 42% | 6 meses em inox",
+                    "text": "calde de cana, com frutado intenso",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Magnífica Bica do Alambique",
+                    "price": "17",
+                    "seal": true,
+                    "subtitle": "vassouras | 48% | sem descanso",
+                    "text": "mineralíssima, fresca e limpa",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Magnífica Cristal",
+                    "price": "15",
+                    "seal": false,
+                    "subtitle": "vassouras | 40% | inox",
+                    "text": "cana fresca e fruta cítrica",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Pindorama Prata",
+                    "price": "23",
+                    "seal": true,
+                    "subtitle": "engenheiro paulo de frontin | 40% | inox",
+                    "text": "cana-de-açúcar, frutas tropicais e elegância",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Werneck Tradicional",
+                    "price": "22",
+                    "seal": true,
+                    "subtitle": "rio das flores | 42% | 6 meses em inox",
+                    "text": "vegetal e frutada",
+                    "variant": "Primary"
+                }]
+            },
+            {
+                "title": "Rio Grande do Sul",
+                "variant": "Primary",
+                "Cards": [{
+                    "title": "Weber Haus Rota 48 Prata",
+                    "price": "12",
+                    "seal": false,
+                    "subtitle": "ivoti | 48% | 6 meses em inox",
+                    "text": "uma surra de cana-de-açúcar",
+                    "variant": "Primary"
+                }]
+            },
+            {
+                "title": "São Paulo",
+                "variant": "Primary",
+                "Cards": [{
+                    "title": "Cabare Prata",
+                    "price": "11",
+                    "seal": false,
+                    "subtitle": "mirassol | 38% | 6 meses em amendoim",
+                    "text": "adocicada, frutada e simples",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Casa Roble Prata",
+                    "price": "10",
+                    "seal": false,
+                    "subtitle": "piracicaba | 39% | 6 meses em inox",
+                    "text": "macia, de alambique, superartesanal",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "51",
+                    "price": "7",
+                    "seal": false,
+                    "subtitle": "pirassununga | 39% | inox",
+                    "text": "simples e direto ao ponto",
+                    "variant": "Primary"
+                },
+                {
+                    "title": "Velho Barreiro",
+                    "price": "7",
+                    "seal": false,
+                    "subtitle": "rio claro | 39% | inox",
+                    "text": "caninha adoçada e supertradicional",
+                    "variant": "Primary"
+                }]
+            }]
