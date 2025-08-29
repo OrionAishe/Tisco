@@ -1,0 +1,179 @@
+@import '../../../assets/colors.scss';
+
+.Header {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    padding: 20px;
+    justify-content: space-between;
+    background: url('../../../../public/Image.png');
+    background-size: cover;
+    color: $terciary;
+    position: relative;
+    height: 60vh;
+
+    @media(min-width: 620px) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media(min-width: 820px) {
+        padding: 30px 5vw;
+    }
+}
+
+.Header__Menu {
+    position: absolute;
+    top: -100vh;
+    left: 0;
+    transition: 0.7s;
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    padding: 30px;
+    gap: 30px;
+    font-family: 'Bobby Jones';
+    background-color: $secondary;
+    flex-direction: column;
+
+    @media(min-width: 620px) {
+        flex-direction: row;
+        padding: 100px 200px;
+        justify-content: space-between;
+    }
+
+    &.Open {
+        top: 0;
+        overflow-x: hidden;
+    }
+}
+
+.Header__reservation,
+.Header__logo {
+    display: flex;
+    list-style: none;
+    gap: 14px;
+    flex-direction: column;
+    text-align: center;
+    flex-direction: row;
+    text-align: start;
+
+}
+
+.Header__reservation {
+    display: none;
+
+    @media(min-width: 620px) {
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+
+.Header__navigation {
+    font-size: 2rem;
+    align-self: center;
+    @media(min-width: 620px) {
+        font-size: 3rem;
+    }
+
+}
+
+.Header__contact {
+    display: none;
+
+    @media(min-width: 820px) {
+        display: block;
+    }
+}
+
+.Header__contacttext {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+
+    div{
+        margin-bottom: 10px;
+    }
+}
+
+.Header__list {
+    display: flex;
+    padding: 25px;
+}
+
+.Header__text {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Bobby Jones';
+    gap: 40px;
+    justify-content: center;
+
+    @media(min-width: 620px) {
+        width: 50%;
+    }
+
+    h1 {
+        font-size: 2rem;
+
+        @media(min-width: 620px) {
+            font-size: 3rem;
+        }
+
+        @media(min-width: 1200px) {
+            font-size: 4rem;
+        }
+    }
+}
+
+.MenuHamburguer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    width: 32px;
+    height: 32px;
+
+    .Menu_burguer1 {
+        width: 20px;
+        height: 3px;
+        background-color: $terciary;
+        border-radius: 2px;
+        transition: 0.3s;
+    }
+
+    .Menu_burguer2 {
+        width: 20px;
+        height: 3px;
+        background-color: $terciary;
+        border-radius: 2px;
+        transition: 0.3s;
+    }
+
+    .Menu_burguer3 {
+        width: 20px;
+        height: 3px;
+        background-color: $terciary;
+        border-radius: 2px;
+        transition: 0.3s;
+    }
+
+    &.Open {
+        .Menu_burguer1 {
+            width: 22px;
+            height: 2px;
+            border-radius: 2px;
+            transform: translate(0px, 6px) rotate(45deg);
+            transition: 0.3s;
+        }
+
+        .Menu_burguer2 {
+            opacity: 0;
+        }
+
+        .Menu_burguer3 {
+            width: 22px;
+            height: 2px;
+            border-radius: 2px;
+            transform: translate(0px, -6px) rotate(-45deg);
+            transition: 0.3s;
+        }
+    }
+}

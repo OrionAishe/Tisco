@@ -1,0 +1,31 @@
+@import '../../../assets/colors.scss';
+
+.CardDisplay{
+    padding: 30px;
+}
+
+.CardDisplay__primary {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    border-bottom: 3px solid $secondary;
+    border-right: 3px solid $secondary;
+    border-left: 3px solid $secondary;
+    margin: 20px;
+
+    @media(min-width: 820px) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.CardDisplay__secondary {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    border-bottom: 3px solid $primary;
+    border-right: 3px solid $primary;
+    border-left: 3px solid $primary;
+    margin: 20px;
+
+    @media(min-width: 820px) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

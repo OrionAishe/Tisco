@@ -1,0 +1,41 @@
+@import '../../../assets/colors.scss';
+
+
+.Card__primary {
+    color: $primary;
+    display: grid;
+    grid-template-areas: 'title image . price' 'subtitle image . price' 'text image . price';
+    padding: 30px;
+}
+
+.Card__secondary {
+    color: $secondary;
+    display: grid;
+    grid-template-areas: 'title image . price' 'subtitle image . price' 'text image . price';
+    padding: 10px 30px;
+}
+
+.Card__title {
+    grid-area: title;
+    font-size: 1.5rem;
+}
+
+.Card__subtitle {
+    grid-area: subtitle;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Card__text {
+    grid-area: text;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.Card__price {
+    grid-area: price;
+    font-size: 1.5rem;
+}
+
+.Card__image {
+    grid-area: image;
+}
