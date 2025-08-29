@@ -1,4 +1,4 @@
-@import '@/assets/colors.scss';
+@use '../../../assets/colors';
 
 .Header {
     display: grid;
@@ -7,7 +7,7 @@
     justify-content: space-between;
     background: url('../../../../public/Image.png');
     background-size: cover;
-    color: $terciary;
+    color: colors.$terciary;
     position: relative;
     height: 60vh;
 
@@ -31,7 +31,7 @@
     padding: 30px;
     gap: 30px;
     font-family: 'Bobby Jones';
-    background-color: $secondary;
+    background-color: colors.$secondary;
     flex-direction: column;
 
     @media(min-width: 620px) {
@@ -134,7 +134,7 @@
     .Menu_burguer1 {
         width: 20px;
         height: 3px;
-        background-color: $terciary;
+        background-color: colors.$terciary;
         border-radius: 2px;
         transition: 0.3s;
     }
@@ -142,7 +142,7 @@
     .Menu_burguer2 {
         width: 20px;
         height: 3px;
-        background-color: $terciary;
+        background-color: colors.$terciary;
         border-radius: 2px;
         transition: 0.3s;
     }
@@ -150,7 +150,7 @@
     .Menu_burguer3 {
         width: 20px;
         height: 3px;
-        background-color: $terciary;
+        background-color: colors.$terciary;
         border-radius: 2px;
         transition: 0.3s;
     }

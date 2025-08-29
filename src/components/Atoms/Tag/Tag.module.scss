@@ -1,8 +1,8 @@
-@import '@/assets/colors.scss';
+@use '../../../assets/colors';
 
 .Tag__primary {
-    color: $terciary;
-    background-color: $secondary;
+    color: colors.$terciary;
+    background-color: colors.$secondary;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -10,8 +10,8 @@
 }
 
 .Tag__secondary {
-    color: $terciary;
-    background-color: $primary;
+    color: colors.$terciary;
+    background-color: colors.$primary;
     text-align: center;
     display: flex;
     justify-content: center;

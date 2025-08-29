@@ -1,15 +1,15 @@
-@import '@/assets/colors.scss';
+@use '../../../assets/colors';
 
 
 .Card__primary {
-    color: $primary;
+    color: colors.$primary;
     display: grid;
     grid-template-areas: 'title image . price' 'subtitle image . price' 'text image . price';
     padding: 30px;
 }
 
 .Card__secondary {
-    color: $secondary;
+    color: colors.$secondary;
     display: grid;
     grid-template-areas: 'title image . price' 'subtitle image . price' 'text image . price';
     padding: 10px 30px;

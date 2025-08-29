@@ -1,5 +1,5 @@
-@import '@/assets/colors.scss';
-@import '@/assets/fonts/fonts.scss';
+@use '../../../assets/colors';
+@use '../../../assets/fonts/fonts.scss';
 
 .Footer {
     display: flex;
@@ -7,8 +7,8 @@
     align-items: center;
     padding: 30px 0;
     gap: 30px;
-    background-color: $primary;
-    color: $terciary;
+    background-color: colors.$primary;
+    color: colors.$terciary;
 
     @media(min-width: 820px) {
         align-items: flex-start;
