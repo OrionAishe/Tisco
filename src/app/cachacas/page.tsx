@@ -10,7 +10,6 @@ export default function Cachacas() {
             <h1>TISCO</h1>
             <CardDisplay title={'Brancas'} Cards={brancas} variant={'Secondary'} />
             <CardDisplay title='Envelhecidas' variant='Primary' Cards={envelhecidas} />
-            <Image width={640} height={1138} src={'/cachacasenvelhecidas.webp'} alt={''}></Image>
         </div>
     );
 }
